@@ -32,6 +32,6 @@ Prints a star pyramid pattern.
 
 8. Number Pattern
 Prints the  number pattern.
-Prints a star pyramid pattern.
 
-Example:
+
+
